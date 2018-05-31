@@ -2,6 +2,13 @@ img {
   height: 300px;
 }
 
-#kids-ride, #normal-ride, #tall-ride, #extra-tall {
-  display: none;
+.highlighted {
+  border: 2px solid yellow;
+  background-color: green;
 }
+
+
+
+/*#kids-ride, #normal-ride, #tall-ride, #extra-tall {
+  display: none;
+}*/
