@@ -1,0 +1,7 @@
+img {
+  height: 300px;
+}
+
+#kids-ride, #normal-ride, #tall-ride, #extra-tall {
+  display: none;
+}
